@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/qtWidget_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget",
+	"CMAKE_SOURCE_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget",
+	"INCLUDE_DIR" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/qtWidget_autogen/include",
+	"INPUTS" : [ "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/file.txt" ],
+	"LOCK_FILE" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/qtWidget_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "mainwindow" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_mainwindow.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/qtWidget_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/mainwindow.qrc",
+	"VERBOSITY" : 0
+}

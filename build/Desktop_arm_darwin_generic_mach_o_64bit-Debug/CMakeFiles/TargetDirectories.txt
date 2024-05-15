@@ -1,0 +1,8 @@
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qtWidget.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qtWidget_autogen.dir

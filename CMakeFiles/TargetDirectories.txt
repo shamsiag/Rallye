@@ -1,0 +1,8 @@
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/qtWidget.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/rebuild_cache.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/list_install_components.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/install.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/install/local.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/install/strip.dir
+/Users/macbookpro/Sham/ITU S4/Prog/c++/qtWidget/CMakeFiles/qtWidget_autogen.dir
